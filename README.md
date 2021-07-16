@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gourank Gwalvanshi
 - 👀 I’m interested in coding in Python
-- 🌱 I’m currently learning python, django, sql, css, html, javascript
+- 🌱 I’m currently learning python, tkinter,django, sql
 - 📫 How to reach me gourank26@gmail.com
 
 <!---
